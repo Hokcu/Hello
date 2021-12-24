@@ -3,6 +3,7 @@ public class Hokcu1 {
 
         System.out.println("Hello");
         System.out.println("Developing Hello feature");
+        System.out.println("Local repo is already published to github");
 
 
     }
